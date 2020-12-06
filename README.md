@@ -19,3 +19,13 @@ Used Technologies:
 Front-end : Html 5,CSS,Bootstrap 4,Java script ES-5,JQuery.
 Backend: Php , Mysql ,Ajax(HTTP,FS).
 Server: Xampp -Apache (httpd), Mysql.
+
+
+Installation Process:==>
+download the AllFile.zip
+Extract and past in Xampp/htdocs/
+create databases given in database folder and import it 
+
+
+
+enjoy the website gpay for cup of tea on 838109576
