@@ -26,6 +26,6 @@ download the AllFile.zip
 Extract and past in Xampp/htdocs/
 create databases given in database folder and import it 
 
-
+website preview https://mgmcollegenanded.000webhostapp.com/
 
 enjoy the website gpay for cup of tea on 838109576
